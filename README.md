@@ -109,7 +109,7 @@ cd my-prompt-library
 
 **Manual Setup:**
 ```bash
-git clone https://github.com/f/prompts.chat.git
+git clone https://github.com/web4hub/prompts.chat.git
 cd prompts.chat
 npm install && npm run setup
 ```
